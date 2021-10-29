@@ -1,18 +1,6 @@
 # Corona-Info-Bot
 
-A corona statistics and information telegram bot.
-
----
-
-```
-Made with Python3
-(C) @FayasNoushad
-Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Corona-Info-Bot/blob/main/LICENSE
-```
-
----
-
+A corona statistics and information telegram bot
 ## Deploy
 
 <details>
@@ -20,7 +8,7 @@ License -> https://github.com/FayasNoushad/Corona-Info-Bot/blob/main/LICENSE
 <br>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Corona-Info-Bot/tree/main">
+  <a href="https://heroku.com/deploy?template=https://github.com/MADEWGN/corona-info-bot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -56,9 +44,3 @@ python3 main.py
 </details>
 
 ---
-
-## Credits
-
-- [Fayas Noushad](https://github.com/FayasNoushad)
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Covid 19 API](https://api.sumanjay.cf/covid)
